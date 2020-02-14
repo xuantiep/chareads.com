@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"4jG8":function(e,t,n){"use strict";n.r(t),n.d(t,"query",(function(){return o}));var a=n("q1tI"),r=n.n(a),l=n("Wbzz"),u=n("rcno"),c=n("NsgW"),o="4170812";t.default=function(e){var t=e.data.videoData,n=Object(u.a)(t);return r.a.createElement(c.a,null,n.length&&r.a.createElement("ol",null,n.map((function(e){return r.a.createElement("li",{key:e.id},r.a.createElement(l.a,{to:e.slug},e.title))}))))}}}]);
+//# sourceMappingURL=component---src-views-video-list-page-index-tsx-d06d6d7767bb5dc77dfc.js.map
