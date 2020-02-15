@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{w0pu:function(e,t,n){"use strict";n.r(t),n.d(t,"query",(function(){return o}));var a=n("q1tI"),r=n.n(a),u=n("Wbzz"),l=n("rcno"),c=n("NsgW"),o="1790655605";t.default=function(e){var t=e.data.bookData,n=Object(l.a)(t);return r.a.createElement(c.a,null,n.length&&r.a.createElement("ol",null,n.map((function(e){return r.a.createElement("li",{key:e.id},r.a.createElement(u.a,{to:e.slug},e.title))}))))}}}]);
-//# sourceMappingURL=component---src-views-book-list-page-index-tsx-fec3df42a56418f277ba.js.map
